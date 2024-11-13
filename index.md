@@ -1,8 +1,4 @@
-﻿# Liste med linker til firmas ledige stillinger side.
-
-***
-
-| Firma          | URL           |
+﻿| Firma          | URL           |
 |----------------|---------------|
 | IF             |  [IF](https://if.wd3.myworkdayjobs.com/Careers) |
 | Gjensidige     |	[Gjensidige](https://jobs.gjensidige.com/?locale=nb_NO) |
