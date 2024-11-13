@@ -1,4 +1,4 @@
-# Ledige stillinger linker
+﻿# Ledige stillinger linker
 
 ## Dette er en liste med urls til en rekke firmaer ledig stilling sider
 
