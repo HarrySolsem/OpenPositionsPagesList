@@ -22,3 +22,4 @@
 | [OBOS](https://www.obos.no/dette-er-obos/jobb-i-obos/ledige-stillinger) |
 | [Oslo kommune](https://candidate.webcruiter.com/nb-no/home/companyadverts?companylock=2180#search) |
 | [BDO](https://www.bdo.no/nb-no/karriere/ledige-stillinger)|
+| [AvantGarde Search](https://avantgardesearch.teamtailor.com/jobs)|
