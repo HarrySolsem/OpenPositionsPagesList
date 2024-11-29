@@ -25,3 +25,4 @@
 | [AvantGarde Search](https://avantgardesearch.teamtailor.com/jobs)|
 | [Forsvaret - Oslo](https://www.forsvaret.no/jobb/ledige-stillinger?locations=Oslo)|
 | [IT SEARCH](https://itsearch.recman.no/index.php)|
+| [Kode24](https://kodejobb.no/stillinger)|
