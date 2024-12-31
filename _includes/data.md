@@ -26,3 +26,4 @@
 | [Forsvaret - Oslo](https://www.forsvaret.no/jobb/ledige-stillinger?locations=Oslo)|
 | [IT SEARCH](https://itsearch.recman.no/index.php)|
 | [Kode24](https://kodejobb.no/stillinger)|
+| [Tekjobb] (https://tekjobb.no/stillinger?regions=region-3&jobTypes=2be422bb-b078-41f5-b1f5-67ceff136ea0)|
