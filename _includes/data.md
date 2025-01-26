@@ -22,8 +22,8 @@
 | [OBOS](https://www.obos.no/dette-er-obos/jobb-i-obos/ledige-stillinger) |
 | [Oslo kommune](https://candidate.webcruiter.com/nb-no/home/companyadverts?companylock=2180#search) |
 | [BDO](https://www.bdo.no/nb-no/karriere/ledige-stillinger)|
-| [AvantGarde Search](https://avantgardesearch.teamtailor.com/jobs)|
 | [Forsvaret - Oslo](https://www.forsvaret.no/jobb/ledige-stillinger?locations=Oslo)|
 | [IT SEARCH](https://itsearch.recman.no/index.php)|
 | [Kode24](https://kodejobb.no/stillinger)|
 | [Tekjobb](https://tekjobb.no/stillinger?regions=region-3&jobTypes=2be422bb-b078-41f5-b1f5-67ceff136ea0&industries=industry-206)|
+| [Rede People](https://redepeople.teamtailor.com/#jobs)
